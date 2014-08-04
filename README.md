@@ -1,4 +1,4 @@
-#  : HTML5 and its various APIs
+#HTML5 and its various APIs
 
 In December last year, I purchased [HTML5 for Masterminds](http://www.minkbooks.com/) by _J.D. Gauchat_. It was a great read, packed with tons of information on how to take advantage of new HTML5 features and various APIs including:
 
