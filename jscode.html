@@ -1,0 +1,22 @@
+<script>
+function Myobject(initialname, initialage) {
+	this.name = initialname;
+	this.age = initialage;
+	this.showname = function() {
+		alert(this.name);
+	};
+	this.changename = function(newname) {
+		this.name = newname;
+	};
+}
+var employee = new Myobject("Danny", 55);
+employee.showname();
+
+
+Myobject.prototype.showage = function() {
+	alert(this.age);
+};
+var employee2 = new Myobject("Johnny", 37);
+employee.showage();
+
+</script>
