@@ -14,7 +14,7 @@ In December last year, I purchased [HTML5 for Masterminds](http://www.minkbooks.
 * **and much more** 
 
 
-This repository isn't a showcase to demo some of my favorite APIs, rather a bundle of code snippets in relation to the various HTML5 things I've learnt and am still learning. 
+This repository isn't a showcase to demo some of my favorite APIs, rather a bundle of code snippets in relation to the various HTML5 features I've learnt and am still learning. 
 
 
 Stay tuned, I'll organize the code in due time!  
